@@ -5,11 +5,17 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Beatriz-Rodriguesx&show_icons=true&count_private=true&hide_border=true&title_color=14b414&icon_color=14b414&text_color=c9d1d9&bg_color=0d1117" alt="Ana Beatriz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz-Rodriguesx&layout=compact&hide_border=true&title_color=14b414&text_color=14b414&&bg_color=0d1117" />
 </div>
+
+<br>
+<br>
 
 <div align="center" >
    
