@@ -1,12 +1,3 @@
-<br>
-<br> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=14b414&size=45&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Beatriz+Rodrigues;I'm+25+years+old;I+am+from+Brazil,+PE;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<br>
-<br>
-<br>
-
 ![capa github](capa_github.png)
 
 <center>
@@ -20,6 +11,11 @@
 
 <br>
 <br>
+<br>
+<br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=14b414&size=45&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Beatriz+Rodrigues;I'm+25+years+old;I+am+from+Brazil,+PE;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <br>
 
 <div align="center" >
